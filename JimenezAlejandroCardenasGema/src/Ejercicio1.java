@@ -5,7 +5,7 @@ public class Ejercicio1 {
 	//Comentario Gema Cardenas
 		
 	// Constantes
-	private static final int EDAD_MAXIMA = 100;
+	private static final int EDAD_MAXIMA = 100; //Cambio de Alejandro Jimenez
 	private static final int LIMITE_NINNO = 12;
 	private static final int LIMITE_ADOLESCENTE = 17;
 	private static final int LIMITE_JOVEN = 29;
