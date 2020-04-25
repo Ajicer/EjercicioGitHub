@@ -1,6 +1,6 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 
-public class Ejercicio1 { 
+public class Ejercicio1 { // conflicto alumno 2
 	
 	//Comentario Gema Cardenas
 		
