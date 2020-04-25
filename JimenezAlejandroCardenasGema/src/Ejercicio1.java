@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class Ejercicio1 { 
+	
+	//Comentario Gema Cardenas
 		
 	// Constantes
 	private static final int EDAD_MAXIMA = 100;
